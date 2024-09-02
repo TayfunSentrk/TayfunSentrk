@@ -6,7 +6,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayfunsentrk&label=Profile%20views&color=0e75b6&style=flat" alt="tayfunsentrk" /> </p>  
   
-- 🔭 I’m currently working on **Employee Tracking Application: In this project, I am developing an Employee Tracking Application using Onion Architecture with ASP .NET Core.**
+- 🔭 I’m currently working on **Employee Tracking Application: In this project, I am developing an Employee Tracking Application using Onion Architecture with ASP .NET Core.** [Check it Out!](https://github.com/TayfunSentrk/Onion_PersonelGorevlendirmeSistemi)
   
 - 🌱 I’m currently learning: **ReactJS**  
   
